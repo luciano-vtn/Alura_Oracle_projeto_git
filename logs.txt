@@ -1,0 +1,11 @@
+commit 63322db5f35d02c5d42e7ef5315e101bca7d0e1d
+Author: Luciano Sousa - vtn <luciano.vtn120@gmail.com>
+Date:   Wed Jan 24 12:38:24 2024 -0300
+
+    Foi Atualizado a variável : numeroLimite.
+
+commit 0e0093bb6e7336575c1b2a5e397afecc7677a2d8
+Author: unknown <luciano.vtn120@gmail.com>
+Date:   Tue Jan 23 17:26:32 2024 -0300
+
+    Inicio do repositório git para Alura_Oracle
